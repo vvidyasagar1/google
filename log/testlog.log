@@ -1,0 +1,21 @@
+2019-03-05 13:14:58,881 - library.TestBase -INFO - Chrome Browser started
+2019-03-05 13:15:06,681 - library.TestBase -INFO - Opened Chrome Browser
+2019-03-05 13:15:06,682 - library.TestBase -INFO - Navigate to Google Search Page
+2019-03-05 13:15:11,514 - library.TestBase -INFO - Clicked on search button
+2019-03-05 13:15:11,948 - library.TestBase -INFO - Screenshot taken after searching text: Adaptavist
+2019-03-05 13:15:12,175 - library.TestBase -INFO - Links matched: 7
+2019-03-05 13:15:16,701 - library.TestBase -INFO - Clicked on searched link
+2019-03-05 13:15:18,202 - library.TestBase -INFO - Screenshot taken for landing page when clicked on searched link
+2019-03-05 13:15:23,929 - library.TestBase -INFO - Clicked on searched link
+2019-03-05 13:15:25,769 - library.TestBase -INFO - Screenshot taken for landing page when clicked on searched link
+2019-03-05 13:15:43,698 - library.TestBase -INFO - Clicked on searched link
+2019-03-05 13:15:45,135 - library.TestBase -INFO - Screenshot taken for landing page when clicked on searched link
+2019-03-05 13:15:50,140 - library.TestBase -INFO - Clicked on searched link
+2019-03-05 13:15:51,661 - library.TestBase -INFO - Screenshot taken for landing page when clicked on searched link
+2019-03-05 13:16:02,723 - library.TestBase -INFO - Clicked on searched link
+2019-03-05 13:16:04,117 - library.TestBase -INFO - Screenshot taken for landing page when clicked on searched link
+2019-03-05 13:16:39,277 - library.TestBase -INFO - Opened Chrome Browser
+2019-03-05 13:16:39,279 - library.TestBase -INFO - Navigate to Google Search Page
+2019-03-05 13:16:42,667 - library.TestBase -INFO - Clicked on search button
+2019-03-05 13:16:42,667 - library.TestBase -INFO - Screenshot taken after searching text: Atlassian
+2019-03-05 13:17:13,232 - library.TestBase -INFO - None of the links contain reference to 'Adaptavist'
